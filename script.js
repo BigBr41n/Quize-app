@@ -1,5 +1,5 @@
 //questions od the quize app with the answers
-User
+
 const questions = [
     {
         question : "What JS means ?",
