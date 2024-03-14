@@ -1,6 +1,6 @@
 //questions od the quize app with the answers
 
-const webDevQuestions = [
+const questions = [
     {
         question: "What is HTML?",
         options: [
@@ -183,7 +183,7 @@ const webDevQuestions = [
     }
 ];
 
-console.log(webDevQuestions);
+
 
 
 
